@@ -4,18 +4,19 @@
 
 <h2>Project information:</h2>
 <h4>
-Language: Python <br>
-Event experiment: Search for the shortest route <br>
-Environment of development: Google colab <br>
+
+>Language: Python <br>
+>Event experiment: Search for the shortest route <br>
+>Environment of development: Google colab 
+
+<br>
 Description: 
-this project was developed with the aim of generating the shortest paths to all points on the map, in this version only the math library is used to perform the mathematical calculations, the numpy and pandas libraries were used to print the list of destinations 
+this project was developed with the aim of generating the shortest paths to all points on the map, in this version only the math library is used to perform the mathematical calculations, the numpy and pandas libraries were used to print the list of destinations. At this project the main objective are search the shortest route between 2 diferent points with any start and any destination, at the code you can change the variables that determine where you start and where you gonna stop. The cities are based in Romênia map. <br> 
 <br><br>
 Interactivity on platform: <br>
 English code description <br>
 
 The Code - variables, commentaries and files generateds are in english <br>
-
-At this project the main objective are search the shortest route between 2 diferent points with any start and any destination, at the code you can change the variables that determine where you start and where you gonna stop. The cities are based in Romênia map. <br>
 
 ### How to Add your solutions:
 <h4>
@@ -35,10 +36,6 @@ For example, if you wanna add a solution for problem 0001, you should do like th
   * cd `0001`.
   * and the write some code & test it.
 
-If all these steps done, send us an pull request. After we accept your request, we'll invite you to this group.
-
-
-below is the flowchart which was used as the basis for developing the code:
 
  </h4>
 
