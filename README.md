@@ -27,7 +27,7 @@ The Code - variables, commentaries and files generateds are in english <br>
 
 For example, if you wanna add a solution for problem 0001, you should do like this:
 
-  * Fork `jferreiraz/ShortestPath`.
+  * Fork `jferreiraz/ShortestPathV2`.
   * git clone `YOUR_REPO_URL SOME_DIR`.
   * cd `SOME_DIR`.
   * mkdir `YOUR_GITHUB_USER_NAME`.
